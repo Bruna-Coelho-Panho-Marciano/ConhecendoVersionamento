@@ -56,4 +56,3 @@ Funciona como uma rede social, conectando desenvolvedores e permitindo que usem 
 - Uma das primeiras plataformas do gênero
 - Foco em software open source
 - Oferece hospedagem de downloads
-
